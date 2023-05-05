@@ -1,3 +1,17 @@
+# PROJECT DESCRIPTION 
+
+This is the final project of a React frontend course. The goal of this project is to create a training app frontend using React that fetches data from a REST API and renders it for the user.
+
+The app consists of a calendar view that displays all the scheduled trainings for the current month. The user can switch between different views such as day, week, or month, and can select a training to view its details. The details of a training include the activity, date, duration, and the person who conducted the training.
+
+In addition to the calendar view, the app also includes a list view that displays all the scheduled trainings in a table format. The user can search for a specific training or filter by a specific category such as the activity type or the trainer's name.
+
+The app also includes the ability to create new trainings and edit existing ones. The user can add the activity type, date, duration, and trainer's name, and the data is sent to the REST API to be stored in the database.
+
+Furthermore, the app includes a statistics page that displays simple information about the training statistics.
+
+Overall, this training app frontend provides a simple and intuitive interface for users to manage their training schedules, track their progress, and make data-driven decisions to improve their fitness goals.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
